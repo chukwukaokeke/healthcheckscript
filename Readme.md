@@ -1,4 +1,4 @@
-Monitoring System Health with Disk and CPU Usage Checks:
+<b>Monitoring System Health with Disk and CPU Usage Checks</b>
 
 In this code, the check_disk_usage function checks the available free space on the specified disk (in this case, the root directory) and returns True if there is more than 20% free space. The check_cpu_usage function checks the current CPU usage and returns True if it is less than 75%.
 
